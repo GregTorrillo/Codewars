@@ -10,7 +10,7 @@ Provide output in this format: For dates in the future: "You are ... year(s) old
 
 function  calculateAge(birthYear,year) {
    age = year-birthYear;
-   if(age==1)
+   if(age === 1)
      return "You are 1 year old.";
    else if(age===-1)
      return "You will be born in 1 year."
