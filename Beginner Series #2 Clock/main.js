@@ -1,3 +1,6 @@
+//Beginner Series #2 Clock
+//Your task is to write a function which returns the time since midnight in milliseconds.
+
 function past(h, m, s){
 // Problem 
 // Clock shows 'h' hours, 'm' minutes and 's' seconds after midnight.
