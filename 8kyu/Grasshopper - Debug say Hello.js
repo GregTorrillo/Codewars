@@ -9,3 +9,7 @@ FUNDAMENTALS*/
 function sayHello(name) {
   return `Hello, ${name}`
 }
+
+function sayHello(name) {
+  return "Hello, " + name
+}
