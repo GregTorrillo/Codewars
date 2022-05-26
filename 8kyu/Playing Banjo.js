@@ -8,6 +8,10 @@ function areYouPlayingBanjo(name) {
   } else {
     return `${name} does not play banjo`;
   }
-  
   return name;
+}
+
+
+function areYouPlayingBanjo(name) {
+  return name + (name[0].toLowerCase() == 'r' ? ' plays' : ' does not play') + " banjo";
 }
