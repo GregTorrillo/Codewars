@@ -14,8 +14,7 @@ Output: "Oi! Sheep number 1! You are about to be eaten by a wolf!"
 
 Input: ["sheep", "sheep", "wolf"]
 Output: "Pls go away and stop eating my sheep"
-
-FUNDAMENTALSARRAYSLOOPSCONTROL FLOWBASIC LANGUAGE FEATURES*/
+*/
 
 function warnTheSheep(queue) {
   let sheepPos = queue.length - queue.indexOf('wolf') -1
