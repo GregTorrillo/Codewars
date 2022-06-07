@@ -4,7 +4,7 @@ function solution(str){
   //convert the string to an array
        let array = str.split("");
 
-    //use the reverse method
+    //reverse method
     array.reverse()
 
     //convert it back to a string and return
