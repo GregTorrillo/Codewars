@@ -10,8 +10,7 @@ Examples:
 
 3.1 needs to become $3.10
 Good luck! Your team knows they can count on you!
-
-ALGORITHMSFUNCTIONAL PROGRAMMINGDECLARATIVE PROGRAMMINGSTRINGSFORMATTING*/
+*/
 
 function formatMoney(amount){
   return  '$' + amount.toFixed(2)
