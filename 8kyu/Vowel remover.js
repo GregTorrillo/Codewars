@@ -7,7 +7,7 @@ Examples
 "HELLO"     -->  "HELLO"
 don't worry about uppercase vowels
 y is not considered a vowel for this kata
-FUNDAMENTALSSTRINGSPARSINGALGORITHMS*/
+*/
 
 function shortcut (string) {
   let vowels = ['a','e','i','o','u']
