@@ -7,7 +7,6 @@ Our deck (is preloaded):
 ('3♦') -> return 'diamonds'
 ('3♥') -> return 'hearts'
 ('3♠') -> return 'spades'
-FUNDAMENTALSSTRINGSBASIC LANGUAGE FEATURES
 */
 
 
