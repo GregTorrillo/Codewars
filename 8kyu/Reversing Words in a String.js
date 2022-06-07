@@ -7,8 +7,7 @@ Example (Input --> Output)
 "Hello World" --> "World Hello"
 "Hi There." --> "There. Hi"
 Happy coding!
-
-FUNDAMENTALSSTRINGS*/
+*/
 
 function reverse(string){
   return string.split(' ').reverse().join(' ')
