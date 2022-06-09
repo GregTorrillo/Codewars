@@ -11,9 +11,6 @@ pointsPer48(5, 17) // 14.1
 pointsPer48(0, 0) // 0
 Notes:
 All inputs will be either be an integer or float.
-Follow your dreams!
-
-FUNDAMENTALSMATHEMATICSALGORITHMSNUMBERS
 */
 
 function pointsPer48(ppg, mpg) {
