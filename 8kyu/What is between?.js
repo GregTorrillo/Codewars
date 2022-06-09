@@ -5,7 +5,7 @@ For example:
 a = 1
 b = 4
 --> [1, 2, 3, 4]
-FUNDAMENTALSALGORITHMS*/
+*/
 
 function between(a, b) {
   let array = []
