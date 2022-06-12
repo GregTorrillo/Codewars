@@ -14,8 +14,6 @@ Examples
 'B' and 'g' returns 0
 
 '0' and '?' returns -1
-
-FUNDAMENTALS
 */
 
 function sameCase(a, b){
