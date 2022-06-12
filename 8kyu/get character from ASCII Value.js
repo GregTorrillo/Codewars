@@ -1,4 +1,5 @@
-/*Write a function get_char() / getChar() which takes a number and returns the corresponding ASCII char for that value.
+/*
+Write a function get_char() / getChar() which takes a number and returns the corresponding ASCII char for that value.
 
 Example:
 
@@ -7,8 +8,7 @@ should return:
 
 'A'
 For ASCII table, you can refer to http://www.asciitable.com/
-
-FUNDAMENTALS*/
+*/
 
 function getChar(c){
   return String.fromCharCode(c)
