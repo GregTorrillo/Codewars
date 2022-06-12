@@ -1,4 +1,5 @@
-/*I have a cat and a dog.
+/*
+I have a cat and a dog.
 
 I got them at the same time as kitten/puppy. That was humanYears years ago.
 
@@ -15,7 +16,8 @@ Cat Years
 Dog Years
 15 dog years for first year
 +9 dog years for second year
-+5 dog years for each year after that*/
++5 dog years for each year after that
+*/
 
 
 var humanYearsCatYearsDogYears = function(humanYears) {
