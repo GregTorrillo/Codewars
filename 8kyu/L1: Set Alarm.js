@@ -7,7 +7,6 @@ setAlarm(true, true) -> false
 setAlarm(false, true) -> false
 setAlarm(false, false) -> false
 setAlarm(true, false) -> true
-FUNDAMENTALSBOOLEANS
 */
 
 function setAlarm(employed, vacation){
