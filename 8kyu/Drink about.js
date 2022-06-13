@@ -1,4 +1,5 @@
-/*Kids drink toddy.
+/*
+Kids drink toddy.
 Teens drink coke.
 Young adults drink beer.
 Adults drink whisky.
@@ -17,7 +18,7 @@ Examples: (Input --> Output)
 18 --> "drink beer"
 20 --> "drink beer"
 30 --> "drink whisky"
-FUNDAMENTALSCONDITIONAL STATEMENTSCONTROL FLOWBASIC LANGUAGE FEATURES*/
+*/
 
 function peopleWithAgeDrink(old) {
   if(old < 14){
