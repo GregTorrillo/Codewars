@@ -4,8 +4,6 @@ Return the number (count) of vowels in the given string.
 We will consider a, e, i, o, u as vowels for this Kata (but not y).
 
 The input string will only consist of lower case letters and/or spaces.
-
-FUNDAMENTALSSTRINGSUTILITIES
 */
 
 //P: Are we given anything that isn't a string?  What do we do in case of special characters?  An empty string?  What do we do in the case of spaces?
@@ -14,10 +12,10 @@ FUNDAMENTALSSTRINGSUTILITIES
 
 //E:  
 
-console.log(vowelCount('Parrots are fantastic'),7)
-console.log(vowelCount('Streaming is gr8'),4)
-console.log(vowelCount('99'),0)
-console.log(vowelCount(''),0)
+// console.log(vowelCount('Parrots are fantastic'),7)
+// console.log(vowelCount('Streaming is gr8'),4)
+// console.log(vowelCount('99'),0)
+// console.log(vowelCount(''),0)
 
 //P:  Make a function that takes in a str parameter
     function vowelCount(str){
