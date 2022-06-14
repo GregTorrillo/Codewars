@@ -20,7 +20,6 @@ This means (x-0) * (x-1) = 0; when we do the multiplication this becomes x^2 - x
 Notes
 Inputs will be integers.
 When x1 == x2, this means the root has the multiplicity of two
-FUNDAMENTALS
 */
 
 function quadratic(x1, x2){
