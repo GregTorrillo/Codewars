@@ -1,4 +1,5 @@
-/*Challenge:
+/*
+Challenge:
 
 Given a two-dimensional array of integers, return the flattened version of the array with all the integers in the sorted (ascending) order.
 
@@ -11,8 +12,7 @@ Addendum:
 Please, keep in mind, that JavaScript is by default sorting objects alphabetically. For more information, please consult:
 
 http://stackoverflow.com/questions/6093874/why-doesnt-the-sort-function-of-javascript-work-well
-
-FUNDAMENTALSARRAYSSORTINGALGORITHMSLAMBDASFUNCTIONAL PROGRAMMINGFUNCTIONSDECLARATIVE PROGRAMMINGCONTROL FLOWBASIC LANGUAGE FEATURES*/
+*/
 
 function flattenAndSort(array) {
     let array2 = [].concat(...array).sort((a,b) => a-b)
