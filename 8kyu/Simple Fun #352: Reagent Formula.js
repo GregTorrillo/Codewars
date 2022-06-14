@@ -29,10 +29,6 @@ For formula = [7,8], The output should be true.
 
 Note
 All inputs are valid. Array contains at least 1 digit. Each digit appears at most once.
-
-Happy Coding ^_^
-
-FUNDAMENTALS
 */
 
 
