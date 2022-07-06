@@ -12,14 +12,12 @@ let str = "zbk", arr = [0, 1]
     str = "bk", arr = [1]
     str = "b", arr = []
     return 'b'
+    
 Notes
 The given string will never be empty.
 The length of the array is always one less than the length of the string.
 All numbers are valid.
 There can be duplicate letters and numbers.
-If you like this kata, check out the next one: Last Survivors Ep.2
-
-FUNDAMENTALSARRAYSBASIC LANGUAGE FEATURESLANGUAGE FEATURES
 */
 
 function lastSurvivor(letters, coords) {
