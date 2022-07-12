@@ -8,7 +8,7 @@ If the wolf is the closest animal to you, return "Pls go away and stop eating my
 
 Note: there will always be exactly one wolf in the array.
 
-Examples
+Example:
 Input: ["sheep", "sheep", "sheep", "wolf", "sheep"]
 Output: "Oi! Sheep number 1! You are about to be eaten by a wolf!"
 
