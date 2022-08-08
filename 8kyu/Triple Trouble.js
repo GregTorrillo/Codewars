@@ -3,7 +3,7 @@ Create a function that will return a string that combines all of the letters of 
 
 E.g. Input: "aa", "bb" , "cc" => Output: "abcabc"
 
-Note: You can expect all of the inputs to be the same length.
+You can expect all of the inputs to be the same length.
 */
 
 function tripleTrouble(one, two, three){
