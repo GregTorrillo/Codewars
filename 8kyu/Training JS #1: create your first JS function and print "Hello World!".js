@@ -1,4 +1,5 @@
-/*mission 1:
+/*
+mission 1:
 
 use keyword function to define your function, function name should be helloWorld(don't forget the () and {})
 
@@ -12,7 +13,8 @@ type the console.log() in the next line(don't forget to put the str in the brack
 
 When you have finished the work, click "Run Tests" to see if your code is working properly.
 
-In the end, click "Submit" to submit your code pass this kata.*/
+In the end, click "Submit" to submit your code pass this kata.
+*/
 
 function helloWorld(){
   var str = 'Hello World!'
