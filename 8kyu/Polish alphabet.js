@@ -14,7 +14,7 @@ Your task is to change the letters with diacritics:
 ż -> z
 and print out the string without the use of the Polish letters.
 
-For example:
+Example:
 
 "Jędrzej Błądziński"  -->  "Jedrzej Bladzinski"
 */
