@@ -5,7 +5,7 @@ Suppose that the falling speed of a petal is 5 centimeters per second (5 cm/s), 
 
 Write a function that receives the speed (in cm/s) of a petal as input, and returns the time it takes for that petal to reach the ground from the same branch.
 
-Notes:
+Notes
 
 The movement of the petal is quite complicated, so in this case we can see the velocity as a constant during its falling.
 Pay attention to the data types.
