@@ -3,7 +3,7 @@ Write a program to determine if the two given numbers are coprime. A pair of num
 
 The inputs will always be two positive integers between 2 and 99.
 
-Examples
+Examples:
 20 and 27:
 
 Factors of 20: 1, 2, 4, 5, 10, 20
