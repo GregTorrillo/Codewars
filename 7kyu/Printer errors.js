@@ -9,7 +9,7 @@ You have to write a function printer_error which given a string will return the 
 
 The string has a length greater or equal to one and contains only letters from ato z.
 
-Examples:
+Ex:
 s="aaabbbbhaijjjm"
 printer_error(s) => "0/14"
 
