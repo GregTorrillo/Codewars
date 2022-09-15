@@ -5,7 +5,7 @@ Find max(abs(length(x) − length(y)))
 
 If a1 and/or a2 are empty return -1 in each language except in Haskell (F#) where you will return Nothing (None).
 
-Ex:
+Example:
 a1 = ["hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz"]
 a2 = ["cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww"]
 mxdiflg(a1, a2) --> 13
