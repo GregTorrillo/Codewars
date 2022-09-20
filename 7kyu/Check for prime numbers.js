@@ -1,5 +1,5 @@
 /*
-n this kata you will create a function to check a non-negative input to see if it is a prime number.
+In this kata you will create a function to check a non-negative input to see if it is a prime number.
 
 The function will take in a number and will return True if it is a prime number and False if it is not.
 
