@@ -5,7 +5,7 @@ As you plunge out of the slide into the water, you see a shark hovering in the d
 
 You need to work out if the shark will get to you before you can get to the pontoon. To make it easier... as you do the mental calculations in the water you either freeze when you realise you are dead, or swim when you realise you can make it!
 
-You are given 5 variables;
+You are given 5 variables
 
 sharkDistance = distance from the shark to the pontoon. The shark will eat you if it reaches you before you escape to the pontoon.
 
