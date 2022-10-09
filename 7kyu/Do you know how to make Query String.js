@@ -1,5 +1,5 @@
 /*
-Query string is a way to serialize object, which is used in HTTP requests. You may see it in URL:
+Query string is a way to serialize object, which is used in HTTP requests. You may see it in URL
 
 codewars.com/kata/search/?q=querystring
 The part q=querystring represents that parameter q has value querystring. Also sometimes querystring used in HTTP POST body:
