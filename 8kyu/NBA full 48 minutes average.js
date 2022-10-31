@@ -3,7 +3,7 @@ An NBA game runs 48 minutes (Four 12 minute quarters). Players do not typically 
 
 Write a function that takes two arguments, ppg (points per game) and mpg (minutes per game) and returns a straight extrapolation of ppg per 48 minutes rounded to the nearest tenth. Return 0 if 0.
 
-Examples:
+Examples
 
 pointsPer48(12, 20) // 28.8
 pointsPer48(10, 10) // 48 
