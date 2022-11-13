@@ -9,7 +9,7 @@ Since there are infinitely many solutions to this problem, we fix a = 1.
 
 Remember, the roots can be written like (x-x1) * (x-x2) = 0
 
-Example
+Example:
 quadratic(1,2) = (1, -3, 2)
 This means (x-1) * (x-2) = 0; when we do the multiplication this becomes x^2 - 3x + 2 = 0
 
