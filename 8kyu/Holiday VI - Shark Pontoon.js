@@ -15,7 +15,7 @@ pontoonDistance = how far you need to swim to safety in metres.
 
 youSpeed = how fast you can swim in metres/second.
 
-dolphin = a boolean, if true, you can half the swimming speed of the shark as the dolphin will attack it.
+dolphin = a boolean, if true, you can half the swimming speed of the shark as the dolphin will attack it
 
 The pontoon, you, and the shark are all aligned in one dimension.
 
