@@ -5,7 +5,7 @@ Young adults drink beer.
 Adults drink whisky.
 Make a function that receive age, and return what they drink.
 
-Rules
+Rules:
 
 Children under 14 old.
 Teens under 18 old.
