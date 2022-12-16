@@ -21,7 +21,6 @@ The pontoon, you, and the shark are all aligned in one dimension.
 
 If you make it, return "Alive!", if not, return "Shark Bait!".
 
-FUNDAMENTALSNUMBERSSTRINGSMATHEMATICSALGORITHMS
 */
 
 function shark(pontoonDistance, sharkDistance, youSpeed, sharkSpeed, dolphin){
