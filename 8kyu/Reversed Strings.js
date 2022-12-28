@@ -1,4 +1,4 @@
-// Complete the solution so that it reverses the string passed into it.
+// Complete the solution so that it reverses the string passed into it
 
 function solution(str){
   //convert the string to an array
