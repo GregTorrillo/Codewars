@@ -7,7 +7,7 @@ Triangular numbers are so called because of the equilateral triangular shape tha
                      *
 You need to return the nth triangular number. You should return 0 for out of range values:
 
-For example: (Input --> Output)
+For example (Input --> Output)
 
 0 --> 0
 2 --> 3
