@@ -3,7 +3,7 @@ Define a method hello that returns "Hello, Name!" to a given name, or says Hello
 
 Assuming that name is a String and it checks for user typos to return a name with a first capital letter (Xxxx).
 
-Examples
+Examples:
 
 * With `name` = "john"  => return "Hello, John!"
 * With `name` = "aliCE" => return "Hello, Alice!"
