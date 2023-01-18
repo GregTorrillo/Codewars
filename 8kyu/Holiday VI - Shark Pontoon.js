@@ -19,7 +19,7 @@ dolphin = a boolean, if true, you can half the swimming speed of the shark as th
 
 The pontoon, you, and the shark are all aligned in one dimension.
 
-If you make it, return "Alive!", if not, return "Shark Bait!".
+If you make it, return "Alive!", if not, return "Shark Bait!"
 
 */
 
