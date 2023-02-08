@@ -4,7 +4,7 @@ You have an amount of money a0 > 0 and you deposit it with an interest rate of p
 Task:
 The function date_nb_days (or dateNbDays...) with parameters a0, a, p will return, as a string, the date on which you have just reached a.
 
-Example:
+Example
 date_nb_days(100, 101, 0.98) --> "2017-01-01" (366 days)
 
 date_nb_days(100, 150, 2.00) --> "2035-12-26" (7299 days)
